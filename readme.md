@@ -10,7 +10,7 @@ Everything in it is from Lecture 20.
 <details>
 <summary>Click to open the demo video (40 seconds)</summary>
 
-https://github.com/USER/REPO/assets/demo.mp4
+https://github.com/ttpu/lab10-retrofit/raw/main/demo.mp4
 
 (the same file is in the repo: `demo.mp4`)
 
